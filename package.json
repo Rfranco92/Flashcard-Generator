@@ -1,5 +1,5 @@
 {
-  "name": "a",
+  "name": "flashcards",
   "version": "1.0.0",
   "description": "",
   "main": "BasicCard.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rfranco92/Flashcard-Generator/issues"
   },
-  "homepage": "https://github.com/Rfranco92/Flashcard-Generator#readme"
+  "homepage": "https://github.com/Rfranco92/Flashcard-Generator#readme",
+   "dependencies": {
+    "inquirer": "3.3.0"
+  }
 }
